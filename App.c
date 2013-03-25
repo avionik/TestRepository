@@ -4,7 +4,7 @@
  * @file app.c
  * @brief Application implementation.
  *
- * @license
+
  *
  */
 
