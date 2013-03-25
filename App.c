@@ -3,24 +3,7 @@
  * @brief Application implementation.
  *
  * @license
- * You can use this file under the terms of the IFX License.
- *
- * This file is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * IFX License for more details (IFX_License.txt).
- *
- * This file may be used, copied, and distributed, with or without
- * modification, provided that all copyright notices are retained;
- * that all modifications to this file are prominently noted in the
- * modified file; and that this paragraph is not modified.
- *
- * @copyright Copyright (C) 2010, 2009, 2008 Infineon Technologies AG
- * @author Alann Denais <Alann.Denais@Infineon.com>
- * @author Dian Tresna Nugraha <Dian.Nugraha@Infineon.com>
- *
- * $Revision: 369 $
- * $Date: 2010-11-08 18:12:17 +0100 (Mon, 08 Nov 2010) $
+ * You can 
  *
  */
 
