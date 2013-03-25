@@ -5,7 +5,6 @@
  * @brief Application implementation.
  *
  * @license
- * You can 
  *
  */
 
